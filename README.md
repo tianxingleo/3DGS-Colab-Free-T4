@@ -14,7 +14,7 @@
 访问：https://colab.research.google.com/drive/1iktXf6qhJXwB0io6YR-FtoGcGooXvakR?usp=sharing
 
 
-本项目基于：https://github.com/yassgan/3DGaussianSplatting-INRIA-Method-Colab修改实现
+本项目基于：https://github.com/yassgan/3DGaussianSplatting-INRIA-Method-Colab   修改实现
 
 
 ## 核心特性
